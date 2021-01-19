@@ -1,4 +1,4 @@
-# Hello!, 你好!， Apa Khabar?, I'm Clifford<s>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</s>@wenloong
+# Hello!, 你好!, Apa Khabar?, I'm Clifford<s>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</s>@wenloong
 <h3> 🐶 About Me </h3>
 
 <br>🔭 I’m currently working on Coffeephile.
