@@ -7,7 +7,7 @@
 <br>💬 Ask me about anything (:
 <br>💻 Check out my [website](https://www.cliffordng.com)
 <br>📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/cliffordng) or email me at <a href = "mailto: hello@cliffordng.com">hello@cliffordng.com</a>
-<br>❤️ Dog lover
+<br>❤️ Dog & Shark lover
 
 <hr>
 
