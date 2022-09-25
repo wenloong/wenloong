@@ -1,19 +1,17 @@
 # Hello!, 你好!, Apa Khabar?, I'm Clifford<s>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</s>@wenloong
 <h3> 🐶 About Me </h3>
 
-<br>🔭 I’m currently working on Coffeephile.
+<br>🔭 Exploring different options...
 <br>🎓 B.S. Computer Science @ UC Riverside
-<br>🌱 I’m currently learning Next.js, Ruby, and Web Security
+<br>🌱 Is that a beansprout?
 <br>💬 Ask me about anything (:
-<br>💻 Check out my [website](https://www.cliffordng.com)
-<br>📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/cliffordng) or email me at <a href = "mailto: hello@cliffordng.com">hello@cliffordng.com</a>
 <br>❤️ Dog & Shark lover
 
 <hr>
 
 <h3> 🎵 Currently Vibing To </h3>
 
-<img height="150px" src="https://github.com/wenloong/wenloong/blob/main/frenchie.gif"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Spotify](https://spotify-now-playing.wenloong.vercel.app/api/spotify)](https://open.spotify.com/user/cliffordngwl)
+<img height="150px" width="200px" src="https://github.com/wenloong/wenloong/blob/main/frenchie.gif"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Spotify](https://spotify-now-playing.wenloong.vercel.app/api/spotify)](https://open.spotify.com/user/cliffordngwl)
 
 <hr>
 
